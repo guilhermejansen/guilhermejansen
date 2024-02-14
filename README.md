@@ -1,6 +1,6 @@
 # Olá, eu sou Guilherme Jansen! 👋
 
-## Desenvolvedor Web Full Stack | Especialista em Automações | Especialista em IA | Smart Data Analyst | Business Intelligence | DevOps Developer
+## Full Stack Developer | Python | Javascript | DevOps | Automation Specialist | AI Expert |
 
 Sou apaixonado por tecnologia e inovação, atuando como Desenvolvedor Web Full Stack. Minha experiência abrange desde a criação de soluções digitais robustas e modernas até a otimização de interfaces responsivas centradas no usuário. Especializei-me não só em desenvolvimento, mas também em promover soluções digitais através de estratégias avançadas de marketing e automação.
 
