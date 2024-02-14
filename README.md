@@ -1,42 +1,47 @@
+<div align="right">
+  
 ![](https://komarev.com/ghpvc/?username=guilhermejansen&color=006bed)
-
-# Olá, eu sou Guilherme Jansen! 👋
-
-## Full Stack Developer | DevOps | Automation Specialist | AI Expert
-
+[![GitHub](https://img.shields.io/github/followers/guilhermejansen?label=follow&style=social)](https://github.com/guilhermejansen)
+</div>
+<div align="center">
+  
+# Olá, eu sou Guilherme Jansen! 👋 <br> Full Stack Developer | DevOps | Automation Specialist | AI Expert
+<br>
 Sou apaixonado por tecnologia e inovação, atuando como Desenvolvedor Web Full Stack. Minha experiência abrange desde a criação de soluções digitais robustas e modernas até a otimização de interfaces responsivas centradas no usuário.
+</div>
 
-### 🔍 Especialidades
+---
 
-#### Desenvolvimento Full-Stack
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-![n8n](https://img.shields.io/badge/-n8n-333333?style=flat)
+### 💻 Hard Skills
 
-### 🚀 Ferramentas e Tecnologias
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
-![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
-![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+#### 🖥️ Sistemas Operacionais
+- ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian) ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
+#### 💻 Linguagens de Programação e Frameworks
+- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js) ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular) ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+
+#### 💾 Bancos de Dados
+- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb) ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch) ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase) ![Xano](https://img.shields.io/badge/-Xano-333333?style=flat&logo=xano-io)
+
+#### 🛠️ Ferramentas de Desenvolvimento e DevOps
+- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes) ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins) ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github-actions) ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform) ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible) ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus) ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+
+#### ☁️ Cloud e Monitoramento
+- ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws) ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud) ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=digitalocean) ![Hetzner](https://img.shields.io/badge/-Hetzner-333333?style=flat&logo=hetzner)
+
+#### 🛠 Outras Ferramentas e Tecnologias
+- ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code) ![n8n](https://img.shields.io/badge/-n8n-333333?style=flat) ![Rest API](https://img.shields.io/badge/-Rest_API-333333?style=flat)
+
+#### 📈 Ferramentas Organizacionais e Produtividade
+- ![Obsidian](https://img.shields.io/badge/-Obsidian-333333?style=flat&logo=obsidian) ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello) ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
+#### 🤖 Ferramentas de Inteligência Artificial
+- ![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai) ![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama) ![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=llm) ![Langchang](https://img.shields.io/badge/-Langchang-333333?style=flat&logo=langchang) ![Machine Laner](https://img.shields.io/badge/-Machine_Laner-333333?style=flat&logo=machine-laner)
+
+#### 🛠️ Ferramentas Low Code
+- ![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble-io) ![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-333333?style=flat&logo=flutterflow) ![WeWeb](https://img.shields.io/badge/-WeWeb-333333?style=flat&logo=weweb-io)
+
+---
 ### ⚙️ GitHub Analytics
 
 <div align="center">
@@ -59,25 +64,83 @@ Sou apaixonado por tecnologia e inovação, atuando como Desenvolvedor Web Full 
   <img src="https://profile-counter.glitch.me/guilhermejansen/count.svg" alt="Número de visitantes no perfil" />
 </p>
 
-### 📫 Onde me encontrar
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermejansenoficial/)](https://www.linkedin.com/in/guilhermejansenoficial/)
-[![Gmail](https://img.shields.io/badge/-Email-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilherme@setupautomatizado.com.br)](mailto:guilherme@setupautomatizado.com.br)
-[![GitHub](https://img.shields.io/github/followers/guilhermejansen?label=follow&style=social)](https://github.com/guilhermejansen)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/guilhermejansenoficial/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](http://www.instagram.com/guilhermejansenoficial)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/guilhermejansenoficial)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCBQRzZCePhmql9_7iawBgiA)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/gjansenoficial)
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=TikTok&logoColor=white)](http://tiktok.com/@guilhermejansenoficial)
-[![Twitch](https://img.shields.io/badge/-Twitch-6441A5?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/guilhermejansenoficial)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/6296163/guilherme-jansen)
-[![StackShare](https://img.shields.io/badge/-StackShare-0690FA?style=flat-square&logo=StackShare&logoColor=white)](https://stackshare.io/guilhermejansen)
-[![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=Pinterest&logoColor=white)](https://br.pinterest.com/guilhermejansenoficial/)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)](https://open.spotify.com/user/rrm5lhtza9t3xm8fvpb9ojuym?si=d56e73f06c85472e)
-[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat-square&logo=Dribbble&logoColor=white)](https://dribbble.com/guilhermejansen)
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/guilhermejansen2)
-[![Site Pessoal](https://img.shields.io/badge/-guilhermejansen.com.br-blue?style=flat-square)](https://guilhermejansen.com.br/)
-[![Setup Automatizado](https://img.shields.io/badge/-setupautomatizado.com.br-blue?style=flat-square)](https://setupautomatizado.com.br/)
+<div align="center">
+  <h3>🌟 UM BÔNUS EXCLUSIVO PARA VOCÊ! 🌟</h3>
+  <p>Aproveite essas ofertas incríveis e comece com um DINHEIRO EXTRA! Clique nos links abaixo para ativar seus bônus exclusivos:</p>
+  <a href="https://accounts.binance.com/register?ref=557164101">
+    <img src="https://img.shields.io/badge/-Ganhe_na_Binance-333333?style=flat&logo=binance" alt="Binance">
+  </a>
+  <a href="https://hetzner.cloud/?ref=CYHolma0NEQU">
+    <img src="https://img.shields.io/badge/-Créditos_na_Hetzner_Cloud-333333?style=flat&logo=hetzner" alt="Hetzner Cloud">
+  </a>
+  <a href="https://m.do.co/c/152594b83678">
+    <img src="https://img.shields.io/badge/-Bônus_na_DigitalOcean-333333?style=flat&logo=digitalocean" alt="DigitalOcean">
+  </a>
+</div>
+<br>
+<div align="center">
+  <h3>🌐 Conecte-se Comigo! 🌐</h3>
+  <p>Segue minhas redes sociais e entra em contato para não perder nenhuma novidade!</p>
+  <a href="https://calendar.app.google/zUFKR4oziHEptQj69">
+    <img src="https://img.shields.io/badge/-Agende_um_Horário_comigo-333333?style=flat&logo=google-calendar" alt="Google Calendar">
+  </a>
+    <a href="https://linktr.ee/guilhermejansenoficial">
+    <img src="https://img.shields.io/badge/Acesse%20o%20meu-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree">
+  </a>
+  <a href="https://www.linkedin.com/in/guilhermejansenoficial/">
+    <img src="https://img.shields.io/badge/-Conecte_se_no_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:guilherme@setupautomatizado.com.br">
+    <img src="https://img.shields.io/badge/-Envie_um_Email-333333?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="http://www.instagram.com/guilhermejansenoficial">
+    <img src="https://img.shields.io/badge/-Siga_no_Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://t.me/guilhermejansenoficial">
+    <img src="https://img.shields.io/badge/-Junte_se_ao_Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.youtube.com/channel/UCBQRzZCePhmql9_7iawBgiA">
+    <img src="https://img.shields.io/badge/-Inscreva_se_no_YouTube-red?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://twitter.com/gjansenoficial">
+    <img src="https://img.shields.io/badge/-Siga_no_Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="http://tiktok.com/@guilhermejansenoficial">
+    <img src="https://img.shields.io/badge/-Veja_no_TikTok-000000?style=flat-square&logo=TikTok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://www.twitch.tv/guilhermejansenoficial">
+    <img src="https://img.shields.io/badge/-Assista_no_Twitch-6441A5?style=flat-square&logo=Twitch&logoColor=white" alt="Twitch">
+  </a>
+  <a href="https://stackoverflow.com/users/6296163/guilherme-jansen">
+    <img src="https://img.shields.io/badge/-Pergunte_no_Stack%20Overflow-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white" alt="Stack Overflow">
+  </a>
+  <a href="https://stackshare.io/guilhermejansen">
+    <img src="https://img.shields.io/badge/-Tecnologias_no_StackShare-0690FA?style=flat-square&logo=StackShare&logoColor=white" alt="StackShare">
+  </a>
+  <a href="https://br.pinterest.com/guilhermejansenoficial/">
+    <img src="https://img.shields.io/badge/-Inspire_se_no_Pinterest-BD081C?style=flat-square&logo=Pinterest&logoColor=white" alt="Pinterest">
+  </a>
+  <a href="https://open.spotify.com/user/rrm5lhtza9t3xm8fvpb9ojuym?si=d56e73f06c85472e">
+    <img src="https://img.shields.io/badge/-Ouça_no_Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white" alt="Spotify">
+  </a>
+  <a href="https://dribbble.com/guilhermejansen">
+    <img src="https://img.shields.io/badge/-Portfólio_no_Dribbble-EA4C89?style=flat-square&logo=Dribbble&logoColor=white" alt="Dribbble">
+  </a>
+  <a href="https://www.behance.net/guilhermejansen2">
+    <img src="https://img.shields.io/badge/-Projetos_no_Behance-1769FF?style=flat-square&logo=Behance&logoColor=white" alt="Behance">
+  </a>
+  <a href="https://guilhermejansen.com.br/">
+    <img src="https://img.shields.io/badge/-Visite_meu_Site_Pessoal-blue?style=flat-square" alt="Site Pessoal">
+  </a>
+  <a href="https://setupautomatizado.com.br/">
+    <img src="https://img.shields.io/badge/-Site_Setup_Automatizado-blue?style=flat-square" alt="Setup Automatizado">
+  </a>
+</div>
+<br>
 
-> Como Desenvolvedor Full Stack, minha paixão é criar e otimizar soluções inovadoras, sempre em busca da excelência em tecnologia e desenvolvimento. Vamos conectar e explorar como podemos colaborar em projetos incríveis!
+---
+<div align="center">
+Como Desenvolvedor Full Stack, minha paixão é criar e otimizar soluções inovadoras, sempre em busca da excelência em tecnologia e desenvolvimento. Vamos conectar e explorar como podemos colaborar em projetos incríveis!
+</div>
