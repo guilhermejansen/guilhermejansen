@@ -148,5 +148,6 @@ Sou apaixonado por tecnologia e inovação, atuando como Desenvolvedor Web Full 
 <div align="center">
 Como Desenvolvedor Full Stack, minha paixão é criar e otimizar soluções inovadoras, sempre em busca da excelência em tecnologia e desenvolvimento. Vamos conectar e explorar como podemos colaborar em projetos incríveis!
 </div>
-
+<div align="center">
 <a href="https://app.rocketseat.com.br/me/guilhermejansenoficial"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=guilhermejansenoficial&type=card" width="280" alt="Guilherme Jansen 's Rocket ID"/></a>
+</div>
