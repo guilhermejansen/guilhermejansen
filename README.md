@@ -9,7 +9,7 @@
 <br>
 Sou apaixonado por tecnologia e inovação, atuando como Desenvolvedor Web Full Stack. Minha experiência abrange desde a criação de soluções digitais robustas e modernas até a otimização de interfaces responsivas centradas no usuário.
 </div>
-
+<a href="https://app.rocketseat.com.br/me/guilhermejansenoficial"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=guilhermejansenoficial&type=card" width="280" alt="Guilherme Jansen 's Rocket ID"/></a>
 ---
 
 ### 💻 Hard Skills
