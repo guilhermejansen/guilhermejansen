@@ -8,7 +8,7 @@
 # Olá, eu sou Guilherme Jansen! 👋 <br> Full Stack Developer | DevOps | Automation Specialist | AI Expert | Web3 Enthusiast
 <br>
 Sou apaixonado por tecnologia e inovação, atuando como Desenvolvedor Web Full Stack. Minha experiência abrange desde a criação de soluções digitais robustas e modernas até a otimização de interfaces responsivas centradas no usuário.  
-Tenho orgulho em já ter participado de **diversos hackathons e projetos open-source**, sempre colaborando para transformar ideias em soluções reais e impactantes.
+Tenho orgulho em já ter participado de *diversos hackathons e projetos open-source*, sempre colaborando para transformar ideias em soluções reais e impactantes.
 </div>
 
 ---
