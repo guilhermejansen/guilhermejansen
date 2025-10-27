@@ -11,8 +11,6 @@ Sou apaixonado por tecnologia e inovação, atuando como Desenvolvedor Web Full 
 Tenho orgulho em já ter participado de *diversos hackathons e projetos open-source*, sempre colaborando para transformar ideias em soluções reais e impactantes.
 </div>
 
-<iframe src="https://github.com/sponsors/guilhermejansen/card" title="Sponsor guilhermejansen" height="225" width="600" style="border: 0;"></iframe>
-
 ---
 
 ### 💻 Hard Skills
