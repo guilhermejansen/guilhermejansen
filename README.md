@@ -11,6 +11,8 @@ Sou apaixonado por tecnologia e inovação, atuando como Desenvolvedor Web Full 
 Tenho orgulho em já ter participado de *diversos hackathons e projetos open-source*, sempre colaborando para transformar ideias em soluções reais e impactantes.
 </div>
 
+<iframe src="https://github.com/sponsors/guilhermejansen/card" title="Sponsor guilhermejansen" height="225" width="600" style="border: 0;"></iframe>
+
 ---
 
 ### 💻 Hard Skills
@@ -62,12 +64,6 @@ Tenho orgulho em já ter participado de *diversos hackathons e projetos open-sou
 
 <p align="center">
   <img width="800" src="https://github-profile-trophy.vercel.app/?username=guilhermejansen&column=8&theme=darkhub&no-frame=true&no-bg=true" />
-</p>
-
-### 📍 Profile Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/guilhermejansen/count.svg" alt="Número de visitantes no perfil" />
 </p>
 
 ---
