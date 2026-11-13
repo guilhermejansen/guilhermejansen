@@ -1,50 +1,50 @@
-![Guilherme Jansen — Software, Applied AI, APIs and Orchestration](assets/profile-banner.png)
+# Guilherme Jansen
 
-[Português](README.pt-BR.md) · [English](README.md) · [Español](README.es.md)
+Software Engineer · Full Stack, Applied AI & DevOps
 
-# Building integrations that work together
+![Profile views](https://komarev.com/ghpvc/?username=guilhermejansen&color=006bed)
 
-Full-stack developer working with Go, Python, TypeScript and Rust. I build APIs, AI integrations and application interfaces.
+[English](README.md) · [Português](README.pt-BR.md) · [Español](README.es.md)
 
-## Selected projects
+I am a software engineer working on messaging APIs, AI agents and SaaS applications. My work includes architecture, implementation and technical decisions with development teams.
 
-- [Better Auth Waitlist](https://github.com/guilhermejansen/better-auth-waitlist) — Waitlist plugin, listed in the Better Auth community catalog; not a change to the authentication core.
+## Engineering work
+
+- **Messaging:** Go integration API for an international SaaS, with webhooks, message receipts and label handling; integration with a React/Next.js management interface.
+- **Applied AI:** Maestro integrations with Chatwoot using Python, FastAPI and LangGraph, with conversation context, agent tools and human handoff.
+- **Business applications:** CRM data models, access policies, APIs and a Vue Kanban interface built on Chatwoot at Conversa Labs.
+- **Agent orchestration:** Rust core and React/TypeScript interface for Host Orchestrator. Logical conversations are separate from provider sessions, with durable records of uncertain operations instead of automatic replay.
+
+## Selected public code
+
+- [Better Auth Waitlist](https://github.com/guilhermejansen/better-auth-waitlist) — Waitlist plugin for Better Auth.
 - [WhatsApp Flows Server](https://github.com/guilhermejansen/whatsapp-flows-server) — TypeScript backend for WhatsApp Flows data exchanges and webhooks.
 - [Whats Convert API](https://github.com/guilhermejansen/whats-convert-api) — Go API for media conversion and S3-compatible storage integration.
+- [n8n-nodes-zuckzapgo](https://www.npmjs.com/package/n8n-nodes-zuckzapgo) — TypeScript package published on npm for ZuckZapGo integrations in n8n.
 
-## Project in focus
+## Upstream contributions
 
-**Host Orchestrator** — Rust core for agent context, commands and artifacts.
+For Docker startup in WuzAPI, I added a PostgreSQL readiness check and made application startup depend on a healthy database. The change was merged in [PR #73](https://github.com/asternic/wuzapi/pull/73).
 
-Local persistence of conversations, commands, context and artifacts in SQLite, with HTTP services and a Rust CLI.
-
-Logical conversations remain separate from native provider sessions; durable intent records and uncertain outcomes without automatic replay.
-
-Rust · Tokio · Axum · SQLite · React · TypeScript
-
-## Open source
-
-- [Horizon · Rust contribution](https://github.com/horizon-rust/horizon/pull/5484) — Merged fix preserving the macOS application during launcher updates.
-- [WuzAPI · upstream contributions](https://github.com/asternic/wuzapi/pull/70) — Merged contributions covering group management, Docker/Compose and database connectivity.
-- [WuzAPI #73](https://github.com/asternic/wuzapi/pull/73) · [#77](https://github.com/asternic/wuzapi/pull/77) · [Better Auth #7889](https://github.com/better-auth/better-auth/pull/7889)
+- [WuzAPI #70](https://github.com/asternic/wuzapi/pull/70) — Docker/Compose environment improvements
+- [WuzAPI #77](https://github.com/asternic/wuzapi/pull/77) — WhatsApp group management
+- [Horizon #5484](https://github.com/horizon-rust/horizon/pull/5484) — Rust fix preserving macOS application bundles during launcher updates
+- [Better Auth #7889](https://github.com/better-auth/better-auth/pull/7889) — Community plugin directory contribution
 
 ## Technologies
 
-**Backend and AI:** Python · FastAPI · LangGraph · Go · Ruby on Rails · REST APIs · Webhooks · n8n
+**Backend & AI:** Go · Python · FastAPI · LangGraph · Ruby on Rails · REST · Webhooks · n8n
 
-**Interfaces:** TypeScript · JavaScript · React · Next.js · Vue · HTML · CSS
+**Frontend:** TypeScript · JavaScript · React · Next.js · Vue · HTML · CSS
 
-**Systems and operations:** Rust · Tokio · Axum · SQLite · PostgreSQL · Redis · Docker · Git · CI/CD
+**Systems & data:** Rust · Tokio · Axum · SQLite · PostgreSQL · Redis
 
-
-## Languages
-
-Native Portuguese. English and Spanish: basic.
-
-Open to on-site and hybrid opportunities across Spain, and remote opportunities in Europe. Availability and work authorization to be discussed for each role.
+**DevOps & cloud:** Docker · Kubernetes · Oracle Cloud Infrastructure (OCI) · AWS · CI/CD · Git
 
 ## Contact
 
-[Portfolio](https://guilhermejansen.com.br) · [LinkedIn](https://www.linkedin.com/in/guilhermejansenoficial/) · [Email](mailto:guilhermejansenoficial@gmail.com)
+Open to on-site and hybrid opportunities throughout Spain and remote opportunities in Europe.
 
-![Profile views](https://komarev.com/ghpvc/?username=guilhermejansen&color=006bed)
+Portuguese: native. English: basic. Spanish: basic.
+
+[Portfolio](https://guilhermejansen.com.br) · [LinkedIn](https://www.linkedin.com/in/guilhermejansenoficial/) · [Email](mailto:guilhermejansenoficial@gmail.com)
