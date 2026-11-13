@@ -39,10 +39,12 @@ Rust · Tokio · Axum · SQLite · React · TypeScript
 
 ## Languages
 
-Native Portuguese. English and Spanish: basic, not conversational professionally.
+Native Portuguese. English and Spanish: basic.
 
-Interested in on-site or hybrid opportunities in Gandia and Valencia, as well as remote work. Arrangement and start date to be agreed.
+Open to on-site and hybrid opportunities across Spain, and remote opportunities in Europe. Availability and work authorization to be discussed for each role.
 
 ## Contact
 
 [Portfolio](https://guilhermejansen.com.br) · [LinkedIn](https://www.linkedin.com/in/guilhermejansenoficial/) · [Email](mailto:guilhermejansenoficial@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=guilhermejansen&color=006bed)
