@@ -45,6 +45,4 @@ For Docker startup in WuzAPI, I added a PostgreSQL readiness check and made appl
 
 Open to on-site and hybrid opportunities throughout Spain and remote opportunities in Europe.
 
-Portuguese: native. English: basic. Spanish: basic.
-
 [Portfolio](https://guilhermejansen.com.br) · [LinkedIn](https://www.linkedin.com/in/guilhermejansenoficial/) · [Email](mailto:guilhermejansenoficial@gmail.com)
