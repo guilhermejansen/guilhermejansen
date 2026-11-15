@@ -45,6 +45,4 @@ En el arranque Docker de WuzAPI, añadí una comprobación de disponibilidad de 
 
 Interés en oportunidades presenciales e híbridas en toda España y en remoto en Europa.
 
-Portugués nativo. Inglés básico. Español básico.
-
 [Portfolio](https://guilhermejansen.com.br) · [LinkedIn](https://www.linkedin.com/in/guilhermejansenoficial/) · [Email](mailto:guilhermejansenoficial@gmail.com)
