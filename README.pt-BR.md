@@ -45,6 +45,4 @@ Na inicialização Docker do WuzAPI, adicionei uma verificação de prontidão d
 
 Interesse em oportunidades presenciais e híbridas em toda a Espanha e trabalho remoto na Europa.
 
-Português nativo. Inglês básico. Espanhol básico.
-
 [Portfolio](https://guilhermejansen.com.br) · [LinkedIn](https://www.linkedin.com/in/guilhermejansenoficial/) · [Email](mailto:guilhermejansenoficial@gmail.com)
