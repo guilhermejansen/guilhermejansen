@@ -1,48 +1,48 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark-v2.webp">
+  <img src="assets/profile-banner-light-v2.webp" alt="" width="1280" height="240">
+</picture>
+
 # Guilherme Jansen
 
-Engenheiro de software · Full Stack, IA aplicada e DevOps
+![Visitas no perfil](https://komarev.com/ghpvc/?username=guilhermejansen&color=104aee&style=flat-square&label=Visitas+no+perfil)
 
-![Profile views](https://komarev.com/ghpvc/?username=guilhermejansen&color=006bed)
+**Engenheiro de Software Sênior · Engenheiro de IA**
 
-[English](README.md) · [Português](README.pt-BR.md) · [Español](README.es.md)
+[English](README.md) · [Español](README.es.md) · [Português](README.pt-BR.md)
 
-Sou engenheiro de software e trabalho com APIs de mensageria, agentes de IA e aplicações SaaS. Minha atuação inclui definir a arquitetura, implementar integrações e orientar decisões técnicas junto às equipes.
+Desenvolvo sistemas de mensageria e agentes de IA. Segurança de aplicações e infraestrutura cloud fazem parte do trabalho.
 
-## Trabalho de engenharia
+Mais de 490 PRs integrados (2024–2026), a maioria em repositórios privados.
 
-- **Mensageria:** API de integração em Go para um SaaS internacional, com webhooks, recibos de mensagens e etiquetas; integração com painel de gestão React/Next.js.
-- **IA aplicada:** integrações do Maestro com Chatwoot em Python, FastAPI e LangGraph, com contexto por conversa, ferramentas por agente e transferência para atendimento humano.
-- **Aplicações de negócio:** modelos de CRM, políticas de acesso, APIs e Kanban em Vue sobre Chatwoot na Conversa Labs.
-- **Orquestração de agentes:** núcleo Rust e interface React/TypeScript do Host Orchestrator. Conversas lógicas ficam separadas das sessões dos provedores, com registro durável de operações incertas em vez de repetição automática.
+## Trabalhos selecionados
 
-## Código público selecionado
+- [FunnelChat: entrega de eventos, recuperação e autorização no navegador](https://guilhermejansen.com/pt/work/funnelchat/).
+- [Maestro: ferramentas, memória e avaliação de agentes](https://guilhermejansen.com/pt/work/maestro/).
+- [Licenciamento: autorizações assinadas e recuperação de renovação](https://guilhermejansen.com/pt/work/licensing/).
+- [Host Orchestrator: núcleo Rust e coordenação de runtimes de agentes](https://guilhermejansen.com/pt/work/host-orchestrator/).
 
-- [Better Auth Waitlist](https://github.com/guilhermejansen/better-auth-waitlist) — Plugin de lista de espera para Better Auth.
-- [WhatsApp Flows Server](https://github.com/guilhermejansen/whatsapp-flows-server) — Backend TypeScript para troca de dados e webhooks do WhatsApp Flows.
-- [Whats Convert API](https://github.com/guilhermejansen/whats-convert-api) — API Go para conversão de mídia e integração com armazenamento compatível com S3.
-- [n8n-nodes-zuckzapgo](https://www.npmjs.com/package/n8n-nodes-zuckzapgo) — Pacote TypeScript publicado no npm para integrar ZuckZapGo ao n8n.
+## Código aberto
 
-## Contribuições em outros projetos
+Contribuições integradas: WuzAPI #70, #73 e #77; Horizon #5484. Better Auth Waitlist está no diretório comunitário de plugins. [WuzAPI #70](https://github.com/asternic/wuzapi/pull/70) · [#73](https://github.com/asternic/wuzapi/pull/73) · [#77](https://github.com/asternic/wuzapi/pull/77) · [Horizon #5484](https://github.com/horizon-rust/horizon/pull/5484) · [Better Auth #7889](https://github.com/better-auth/better-auth/pull/7889)
 
-Na inicialização Docker do WuzAPI, adicionei uma verificação de prontidão do PostgreSQL e condicionei o arranque da aplicação ao estado saudável do banco. A alteração foi integrada no [PR #73](https://github.com/asternic/wuzapi/pull/73).
+- [Traycer AI · pull request aberto](https://github.com/traycerai/traycer/pull/3335): Propus uma alteração no serializador do protocolo para limitar a alocação de strings. O PR #3335 continua aberto.
+- [Demonstração HSM/Stellar · colaboração integrada](https://github.com/alexandregomes3112/hsm-stellar-demo/pull/1): Contribuí com uma migração de backend NestJS e interface React em uma demonstração. O PR #1 foi integrado em 6 de setembro de 2025.
+- [Traycer AI · investigação técnica reconhecida](https://github.com/traycerai/traycer/issues/3366#issuecomment-6868084938): Investiguei o consumo de memória e a capacidade de resposta do host. Um mantenedor reconheceu os relatórios e confirmou correções na versão 1.5.4 com base nos dados apresentados. As correções abrangem a publicação de arquivos, as verificações repetidas e as gravações do histórico de conversas.
+- [Whatsmeow · propostas ao projeto e patches no fork](https://github.com/guilhermejansen/whatsmeow): Enviei propostas para notificações de solicitações de entrada em grupos e mapeamento de tokens de privacidade. Os patches também estão disponíveis no meu fork público.
 
-- [WuzAPI #70](https://github.com/asternic/wuzapi/pull/70) — Melhorias no ambiente Docker/Compose
-- [WuzAPI #77](https://github.com/asternic/wuzapi/pull/77) — Gestão de grupos WhatsApp
-- [Horizon #5484](https://github.com/horizon-rust/horizon/pull/5484) — Correção Rust para preservar o aplicativo macOS durante atualizações do launcher
-- [Better Auth #7889](https://github.com/better-auth/better-auth/pull/7889) — Contribuição ao catálogo comunitário de plugins
+Código público: [Better Auth Waitlist](https://github.com/guilhermejansen/better-auth-waitlist) · [WhatsApp Flows Server](https://github.com/guilhermejansen/whatsapp-flows-server) · [API de conversão de mídia](https://github.com/guilhermejansen/whats-convert-api) · [Código das aulas](https://github.com/guilhermejansen/aula-whatsapp-openai).
 
-## Tecnologias
+## Vídeos
 
-**Backend & AI:** Go · Python · FastAPI · LangGraph · Ruby on Rails · REST · Webhooks · n8n
+Conversa Labs: [Apresentação da plataforma Conversa Labs (2026)](https://www.youtube.com/watch?v=hllzl8_ubNQ) · [Imersão: automação com Flow Builder, API e Maestro (2026)](https://www.youtube.com/watch?v=Y9Yq_f-6WyE) · [Imersão: infraestrutura para instalar a plataforma Conversa Labs (2026)](https://www.youtube.com/watch?v=KPIMLqPiuK4)
 
-**Frontend:** TypeScript · JavaScript · React · Next.js · Vue · HTML · CSS
+Demonstrações: [Chat em tempo real com Bun, Next.js e RabbitMQ (2026)](https://www.youtube.com/watch?v=VQttJEqMdpE) · [Instalação e configuração do ZuckZapGo (2025)](https://www.youtube.com/watch?v=WIkKW_x04rE) · [Timeline unificada de conversas no Chatwoot (2025)](https://www.youtube.com/watch?v=L1z9V5G3nS0)
 
-**Systems & data:** Rust · Tokio · Axum · SQLite · PostgreSQL · Redis
-
-**DevOps & cloud:** Docker · Kubernetes · Oracle Cloud Infrastructure (OCI) · AWS · CI/CD · Git
+Lives e workshops: [Live sobre WuzAPI no Mundo AUTOMATIK (2025)](https://www.youtube.com/watch?v=I557BU3_3zE) · [Workshop de IA no WhatsApp · instrutor convidado (2024)](https://www.youtube.com/watch?v=EkTm75uNoaE)
 
 ## Contato
 
-Interesse em oportunidades presenciais e híbridas em toda a Espanha e trabalho remoto na Europa.
+[Portfólio](https://guilhermejansen.com/pt/) · [LinkedIn](https://www.linkedin.com/in/guilhermejansenoficial/) · [contato@guilhermejansen.com](mailto:contato@guilhermejansen.com)
 
-[Portfolio](https://guilhermejansen.com.br) · [LinkedIn](https://www.linkedin.com/in/guilhermejansenoficial/) · [Email](mailto:guilhermejansenoficial@gmail.com)
+Interesse em oportunidades em toda a Espanha e trabalho remoto na Europa.
