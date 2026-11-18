@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark-v2.webp">
-  <img src="assets/profile-banner-light-v2.webp" alt="" width="1280" height="240">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark-v3.webp">
+  <img src="assets/profile-banner-light-v3.webp" alt="Senior Software Engineer · AI Engineer. Full-stack engineering. Applied AI. guilhermejansen.com" width="1280" height="240">
 </picture>
 
 # Guilherme Jansen
